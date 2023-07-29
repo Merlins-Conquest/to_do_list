@@ -40,11 +40,11 @@ const item1 = new Item({
 }); 
 
 const item2 = new Item({
-    name: "Apply for COOP for fall"
+    name: "Rake Leaves"
 }); 
 
 const item3 = new Item({
-    name: "Get gyno surgery for 20k"
+    name: "Fix Resume"
 }); 
 
 const defaultItems = [item1,item2,item3]; 
